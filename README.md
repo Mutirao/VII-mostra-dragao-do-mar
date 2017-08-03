@@ -19,11 +19,12 @@ A mostra deve iniciar na primeira semana de Outubro (CONTEMPLADOS NO MECENATO E 
 - Chamada para inscrição da mostra no Mapa
 - Divulgação e cobertura nas redes sociais
 
-## Site:
+### Site:
 Proposta de usar o tema da Virada. A customização do site é basicamente a aplicação marca e seu padrão de cores.  A produção alimentará os eventos no mapa e terá autonomia para inserir conteúdo. Sugestão de endereço:  mostradragaodomar.com.br (está disponível)
 
-### Estrutura:
- Inicial
+**Estrutura:**
+
+Inicial
 - inscrição para participar da mostra
 - institucional do evento + breve histórico
 - contato
@@ -34,16 +35,16 @@ Definitiva
 - Programação puxando do mapas
 - Matérias
 
-## Chamada no Mapa:
+### Chamada no Mapa:
 Criar projeto e oportunidade no Mapas para a selecionar as atrações da mostra e fazer pré-inscrições nas oficinas. Proposta de ensinar alguém da organização para a utilização do mapas.
 
-### Tarefas:
+**Tarefas:**
 - Utilização do mapas
 - Cadastrar ficha de inscrição
 - Criar lista de inscritos e fazer a curadoria das propostas
 - Publicar resultado
 
-## Divulgação e Cobertura nas Redes Sociais:
+### Divulgação e Cobertura nas Redes Sociais:
 - Fazer a divulgação do evento trabalhando com as redes sociais e fazer a cobertura (o evento contará com dois fotógrafos - Lili Rodrigues). Algumas idéias foram apresentadas pela Andreia:
 - Criar um vídeo institucional chamando para o evento para divulgação no site e passar antes de cada espetáculo.
 - Durante a mostra haverá uma roda de conversa com produtores, a ideia seria ter um vídeos desse produtores chamando para o evento (ajudar nessa pauta).
