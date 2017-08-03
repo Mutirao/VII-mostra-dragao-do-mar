@@ -6,11 +6,6 @@ O projeto foi contemplado no Edital do Mecenas e conta com o apoio da Oi. Na sua
 ## Referências:
 - [Projeto da Mostra no Mapa Cultural do Ceará](http://mapa.cultura.ce.gov.br/projeto/228/)
 
-## Contatos:
-ANDREIA VASCONCELOS - ideiaisproducoes@gmail.com - (85) 99619-2088
-
-CLAUDIO - ciamaiscaras@gmail.com
-
 ## Cronograma:
 - 28/07 - definir equipe de comunicação
 - 29/07 - aprovação da nova marca do evento
