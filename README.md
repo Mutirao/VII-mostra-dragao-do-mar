@@ -10,7 +10,9 @@ O projeto foi contemplado no Edital do Mecenas e conta com o apoio da Oi. Na sua
 - 28/07 - definir equipe de comunicação
 - 29/07 - aprovação da nova marca do evento
 - 07/08 - um colaborador da Oi vem a Fortaleza para conhecer a equipe. O ideal é já ter um boneco do site montado.
-- 18/08 - lançamento do site (gostaria de fazer uma fala sobre o Mapa Cultural)
+- 06/09 - conversa com o Fabiano (SECULT) para apresentar o projeto (15h)
+- 08/09 - lançamento do site (gostaria de fazer uma fala sobre o Mapa Cultural)
+- 25 a 29/10 - possível data do evento
 
 A mostra deve iniciar na primeira semana de Outubro (CONTEMPLADOS NO MECENATO E TEM O APOIO DA OI FUTURO)
 
