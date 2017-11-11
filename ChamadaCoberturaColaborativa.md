@@ -1,5 +1,3 @@
-# Modelo Unicult
-
 ## Apresentação
 Seja a mídia da próxima edição da [Mostra Dragão do Mar de Arte e Cultura](http://mostradragaodomar.com.br/), em **Canoa Quebrada**, Ceará.
 
